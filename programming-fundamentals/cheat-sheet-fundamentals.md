@@ -134,7 +134,7 @@ variable1 > variable2
 ```
 
 **Example 1:**
-```python
+```pythonnn
 9 > 6  # returns True
 ```
 
